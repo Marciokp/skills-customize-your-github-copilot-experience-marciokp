@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "personal-expense-tracker",
+      "title": "Controle de Gastos Pessoais",
+      "description": "Funções e listas/dicionários para registrar e somar gastos por categoria",
+      "path": "assignments/personal-expense-tracker",
+      "dueDate": "2026-11-17",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
